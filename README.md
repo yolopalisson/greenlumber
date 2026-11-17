@@ -30,5 +30,6 @@ Since this is built as a unified file for simplicity and performance, the entire
 
 ```text
 /
-├── index.html       # Contains HTML, inline CSS, and inline JS
+├── index.html       # Contains HTML, and inline JS
+├── style.css        # Semantic CSS   
 └── README.md        # Project documentation
